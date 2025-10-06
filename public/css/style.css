@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-h1{
+    border: 2px solid ;
+    margin-top: 4rem;
+    text-align: center;
+    font-size: 110px;
+    font-weight: bolder;
+    font-style: italic;
+    background-image: url("../img/img16.jpg");
+    background-image: url("../img/img13.jpg");
+    background-size: contain ;
+    background-repeat: repeat;
+    background-clip: text;
+    color: transparent;
+    background-blend-mode: multiply;
+
+}
+
+
+
+.body{
+ background: #020024;
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);   
+    background-size: ;
+    
+}
